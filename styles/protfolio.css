@@ -188,4 +188,31 @@ resumeitem-descr {
 .download-cv{
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 110px;
+}
+footer{
+    display: flex;
+    gap: 100px;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+    
+}
+.footer-cloumn{
+    width: 50%;
+
+}
+.social-icons a{
+    text-align: center;
+    margin-right: 25px;
+    
+}
+
+.contract input[type="text"], .contract input[type="email"], textarea{
+    display: block;
+    margin-bottom: 24px;
+    padding: 18px 35px;
+    font-size: 16px;
+    color: #757575;
+    border: 0;
+    width: 100%;
 }
